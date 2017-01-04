@@ -1,0 +1,90 @@
+PERFORMER "Boris Grebentshikov"
+TITLE "Aerostat Radio vol.10"
+FILE "Aerostat10.mp3" MP3
+  TRACK 01 AUDIO
+    TITLE "BG"
+    INDEX 01 00:51:69
+  TRACK 02 AUDIO
+    TITLE "Great Horse"
+    PERFORMER "Tyrannosaurus Rex"
+    INDEX 01 01:32:57
+  TRACK 03 AUDIO
+    TITLE "BG"
+    INDEX 01 03:13:38
+  TRACK 04 AUDIO
+    TITLE "Here There And Everywhere"
+    PERFORMER "Beatles"
+    INDEX 01 04:31:32
+  TRACK 05 AUDIO
+    TITLE "BG"
+    INDEX 01 06:51:43
+  TRACK 06 AUDIO
+    TITLE "Ruby Tuesday"
+    PERFORMER "Rolling Stones"
+    INDEX 01 07:46:39
+  TRACK 07 AUDIO
+    TITLE "BG"
+    INDEX 01 11:02:72
+  TRACK 08 AUDIO
+    TITLE "Paper Sun"
+    PERFORMER "Traffic"
+    INDEX 01 11:45:52
+  TRACK 09 AUDIO
+    TITLE "BG"
+    INDEX 01 15:55:42
+  TRACK 10 AUDIO
+    TITLE "Hi, It's Been A Long Time"
+    PERFORMER "Donovan"
+    INDEX 01 16:35:61
+  TRACK 11 AUDIO
+    TITLE "BG"
+    INDEX 01 19:04:28
+  TRACK 12 AUDIO
+    TITLE "Days"
+    PERFORMER "Kinks"
+    INDEX 01 19:49:11
+  TRACK 13 AUDIO
+    TITLE "BG"
+    INDEX 01 22:40:57
+  TRACK 14 AUDIO
+    TITLE "No More Sad Songs"
+    PERFORMER "Idle Race"
+    INDEX 01 23:36:03
+  TRACK 15 AUDIO
+    TITLE "BG"
+    INDEX 01 26:52:52
+  TRACK 16 AUDIO
+    TITLE "No Mule's Fool"
+    PERFORMER "Family"
+    INDEX 01 28:01:71
+  TRACK 17 AUDIO
+    TITLE "BG"
+    INDEX 01 31:22:17
+  TRACK 18 AUDIO
+    TITLE "Lovely Day"
+    PERFORMER "Donovan"
+    INDEX 01 32:12:42
+  TRACK 19 AUDIO
+    TITLE "BG"
+    INDEX 01 34:24:54
+  TRACK 20 AUDIO
+    TITLE "I Can't Reach You"
+    PERFORMER "The Who"
+    INDEX 01 35:32:53
+  TRACK 21 AUDIO
+    TITLE "BG"
+    INDEX 01 38:35:72
+  TRACK 22 AUDIO
+    TITLE "Goodbye"
+    PERFORMER "Mary Hopkin"
+    INDEX 01 39:32:60
+  TRACK 23 AUDIO
+    TITLE "And Your Bird Can Sing"
+    PERFORMER "Beatles"
+    INDEX 01 41:55:07
+  TRACK 24 AUDIO
+    TITLE "BG"
+    INDEX 01 43:53:26
+  TRACK 25 AUDIO
+    TITLE "BG"
+    INDEX 01 44:08:04

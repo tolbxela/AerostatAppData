@@ -1,0 +1,80 @@
+PERFORMER "BG"
+TITLE "Aerostat6"
+FILE "Aerostat06.mp3" MP3
+  TRACK 01 AUDIO
+    TITLE "Follow Me Follow"
+    PERFORMER "Idle Race"
+    INDEX 01 02:05:19
+  TRACK 02 AUDIO
+    TITLE "BG"
+    INDEX 01 04:50:30
+  TRACK 03 AUDIO
+    TITLE "Blackberry Way"
+    PERFORMER "Move"
+    INDEX 01 05:47:65
+  TRACK 04 AUDIO
+    TITLE "BG"
+    INDEX 01 09:18:29
+  TRACK 05 AUDIO
+    TITLE "Magdalene (My Regal Zonophone)"
+    PERFORMER "Procol Harum"
+    INDEX 01 10:29:04
+  TRACK 06 AUDIO
+    TITLE "BG"
+    INDEX 01 13:17:29
+  TRACK 07 AUDIO
+    TITLE "Lily The Pink"
+    PERFORMER "Scaffold"
+    INDEX 01 14:16:06
+  TRACK 08 AUDIO
+    TITLE "BG"
+    INDEX 01 18:32:63
+  TRACK 09 AUDIO
+    TITLE "No Milk Today"
+    PERFORMER "Herman's Hermits"
+    INDEX 01 19:24:50
+  TRACK 10 AUDIO
+    TITLE "BG"
+    INDEX 01 22:19:46
+  TRACK 11 AUDIO
+    TITLE "Love Is All Around"
+    PERFORMER "The Troggs"
+    INDEX 01 23:04:31
+  TRACK 12 AUDIO
+    TITLE "BG"
+    INDEX 01 26:23:19
+  TRACK 13 AUDIO
+    TITLE "White Room"
+    PERFORMER "Cream"
+    INDEX 01 27:38:06
+  TRACK 14 AUDIO
+    TITLE "BG"
+    INDEX 01 32:36:04
+  TRACK 15 AUDIO
+    TITLE "Itchikoo Park"
+    PERFORMER "The Small Faces"
+    INDEX 01 33:47:00
+  TRACK 16 AUDIO
+    TITLE "BG"
+    INDEX 01 36:34:61
+  TRACK 17 AUDIO
+    TITLE "My Name Is Jack"
+    PERFORMER "Manfred Mann"
+    INDEX 01 37:18:23
+  TRACK 18 AUDIO
+    TITLE "BG"
+    INDEX 01 40:04:16
+  TRACK 19 AUDIO
+    TITLE "Summer Song"
+    PERFORMER "Chad & Jeremy"
+    INDEX 01 40:32:40
+  TRACK 20 AUDIO
+    TITLE "BG"
+    INDEX 01 43:06:30
+  TRACK 21 AUDIO
+    TITLE "Brother Sun, Sister Moon"
+    PERFORMER "Donovan"
+    INDEX 01 43:30:08
+  TRACK 22 AUDIO
+    TITLE "BG"
+    INDEX 01 45:35:18

@@ -1,0 +1,89 @@
+PERFORMER "BG"
+TITLE "Aerostat12"
+FILE "Aerostat12.mp3" MP3
+  TRACK 01 AUDIO
+    TITLE "BG"
+    INDEX 01 00:38:00
+  TRACK 02 AUDIO
+    TITLE "BG"
+    INDEX 01 01:09:03
+  TRACK 03 AUDIO
+    TITLE "Chic 'N' Stu"
+    PERFORMER "System Of A Down"
+    INDEX 01 01:41:46
+  TRACK 04 AUDIO
+    TITLE "BG"
+    INDEX 01 04:04:24
+  TRACK 05 AUDIO
+    TITLE "Anarchy in the UK"
+    PERFORMER "Sex Pistols"
+    INDEX 01 05:10:38
+  TRACK 06 AUDIO
+    TITLE "BG"
+    INDEX 01 08:40:13
+  TRACK 07 AUDIO
+    TITLE "I Fought The Law"
+    PERFORMER "Clash"
+    INDEX 01 09:47:15
+  TRACK 08 AUDIO
+    TITLE "BG"
+    INDEX 01 12:24:44
+  TRACK 09 AUDIO
+    TITLE "Nice And Sleazy"
+    PERFORMER "Stranglers"
+    INDEX 01 13:07:09
+  TRACK 10 AUDIO
+    TITLE "BG"
+    INDEX 01 16:17:02
+  TRACK 11 AUDIO
+    TITLE "California Uber Alles"
+    PERFORMER "Dead Kennedys"
+    INDEX 01 17:09:20
+  TRACK 12 AUDIO
+    TITLE "BG"
+    INDEX 01 20:13:09
+  TRACK 13 AUDIO
+    TITLE "The Passenger"
+    PERFORMER "Iggy Pop"
+    INDEX 01 21:10:13
+  TRACK 14 AUDIO
+    TITLE "BG"
+    INDEX 01 24:08:60
+  TRACK 15 AUDIO
+    TITLE "A Message To You, Rudy"
+    PERFORMER "Specials"
+    INDEX 01 25:09:19
+  TRACK 16 AUDIO
+    TITLE "BG"
+    INDEX 01 28:00:28
+  TRACK 17 AUDIO
+    TITLE "Sunday Girl"
+    PERFORMER "Blondie"
+    INDEX 01 29:04:46
+  TRACK 18 AUDIO
+    TITLE "BG"
+    INDEX 01 32:06:10
+  TRACK 19 AUDIO
+    TITLE "Sally McLennan"
+    PERFORMER "Pogues"
+    INDEX 01 32:29:45
+  TRACK 20 AUDIO
+    TITLE "BG"
+    INDEX 01 35:12:15
+  TRACK 21 AUDIO
+    TITLE "Firestarter"
+    PERFORMER "Prodigy"
+    INDEX 01 36:39:56
+  TRACK 22 AUDIO
+    TITLE "BG"
+    INDEX 01 41:19:58
+  TRACK 23 AUDIO
+    TITLE "Chop Suey!"
+    PERFORMER "System Of A Down"
+    INDEX 01 41:35:42
+  TRACK 24 AUDIO
+    TITLE "BG"
+    INDEX 01 45:05:43
+  TRACK 25 AUDIO
+    TITLE "BG"
+    INDEX 01 45:25:09
