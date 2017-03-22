@@ -1,4 +1,3 @@
-'use strict';
 
 const fs = require('fs');
 const https = require('https');
@@ -19,6 +18,9 @@ function checkMp3(i) {
     var options = { method: 'HEAD', host: 'aerostatica.ru', port: 443, path: '/music/' + i.toString() + ".mp3" };
     var req = https.request(options, function (res) {
 
+        console.log('StatusCode: ', res.statusCode);
+//        console.log('Headers: ', JSON.stringify(res.headers));
+
         if (res.headers['content-length']) {
             file_size = parseInt(res.headers['content-length']);
             console.log('file_size(1): ', file_size);
@@ -34,16 +36,16 @@ function checkMp3(i) {
                 const stats = fs.statSync(file)
                 const fileSizeInBytes = stats.size
                 console.log('fileSizeInBytes: ', fileSizeInBytes);
-                if (fileSizeInBytes != file_size) {
-                    return getMp3(i);
+                if (fileSizeInBytes < file_size) {
+                    setTimeout(getMp3(i), 1000);
                 } else {
-                    checkMp3(i + 1);
+                    setTimeout(checkMp3(i + 1), 1000);
                 }
             } else {
-                checkMp3(i + 1);
+                 setTimeout(checkMp3(i + 1), 1000);
             }
         } else {
-            return getMp3(i);
+            setTimeout(getMp3(i), 1000);
         }
 
     });
@@ -58,7 +60,8 @@ function getMp3(i) {
 
     var request = https.get(url1, function (response) {
 
-        console.log('statusCode: ', response.statusCode);
+        console.log('StatusCode: ', response.statusCode);
+        console.log('Headers: ', JSON.stringify(response.headers));
 
         if (response.statusCode == 200) {
             var file = fs.createWriteStream(path + i.toString() + ".mp3");
@@ -68,7 +71,7 @@ function getMp3(i) {
         }
 
         response.on('end', function () {
-            return checkMp3(i + 1);
+            setTimeout(checkMp3(i + 1), 3000);
         });
 
     });
